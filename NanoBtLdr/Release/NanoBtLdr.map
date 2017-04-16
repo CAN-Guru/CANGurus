@@ -1,0 +1,864 @@
+Archive member included to satisfy reference by file (symbol)
+
+D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+                              CAN_MCP2515.o (delay)
+D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+                              CAN_MCP2515.o (pinMode)
+D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(main.cpp.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o (main)
+D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(hooks.c.o)
+                              D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o) (yield)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+                              ownCAN.o (__divmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                              C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                              CAN_MCP2515.o (__do_copy_data)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                              CAN_MCP2515.o (__do_clear_bss)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+                              CAN_MCP2515.o (__do_global_ctors)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                              c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o) (__tablejump2__)
+c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memset.o)
+                              main.o (memset)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 CAN.o
+ .data          0x00000000        0x0 CAN.o
+ .bss           0x00000000        0x0 CAN.o
+ .comment       0x00000000       0x31 CAN.o
+ .group         0x00000000        0x8 CAN_MCP2515.o
+ .group         0x00000000        0x8 CAN_MCP2515.o
+ .group         0x00000000        0x8 CAN_MCP2515.o
+ .group         0x00000000        0x8 CAN_MCP2515.o
+ .text          0x00000000        0x0 CAN_MCP2515.o
+ .data          0x00000000        0x0 CAN_MCP2515.o
+ .bss           0x00000000        0x0 CAN_MCP2515.o
+ .text._ZN11CAN_MCP25154readEPmPhS1_
+                0x00000000       0x86 CAN_MCP2515.o
+ .text._ZN11CAN_MCP25155writeEmhhPh
+                0x00000000       0x78 CAN_MCP2515.o
+ .text._ZN11CAN_MCP251511readAddressEh
+                0x00000000       0x38 CAN_MCP2515.o
+ .text._ZN11CAN_MCP251512readRXStatusEv
+                0x00000000       0x30 CAN_MCP2515.o
+ .text._ZN11CAN_MCP25157getModeEv
+                0x00000000        0xa CAN_MCP2515.o
+ .text._ZN11CAN_MCP25157setMaskEhhhhh
+                0x00000000       0x72 CAN_MCP2515.o
+ .text._ZN11CAN_MCP25159setFilterEhhhhh
+                0x00000000       0x72 CAN_MCP2515.o
+ .text._ZN11CAN_MCP251513enableRTSPinsEv
+                0x00000000       0x22 CAN_MCP2515.o
+ .text._ZN11CAN_MCP251513setInterruptsEhh
+                0x00000000        0xa CAN_MCP2515.o
+ .text._ZN11CAN_MCP25154TESTEh
+                0x00000000       0x76 CAN_MCP2515.o
+ .text._ZN15CAN_MCP2515plusC2Ev
+                0x00000000       0x20 CAN_MCP2515.o
+ .text._ZN15CAN_MCP2515plus11can_answer2Ehb
+                0x00000000       0x50 CAN_MCP2515.o
+ .text._ZN15CAN_MCP2515plus10can_answerEh
+                0x00000000        0x6 CAN_MCP2515.o
+ .text._ZN15CAN_MCP2515plus16configTerminatorEii
+                0x00000000       0x22 CAN_MCP2515.o
+ .text._ZN15CAN_MCP2515plus15configDataFrameEPhi
+                0x00000000       0x78 CAN_MCP2515.o
+ .text          0x00000000        0x0 ownCAN.o
+ .data          0x00000000        0x0 ownCAN.o
+ .bss           0x00000000        0x0 ownCAN.o
+ .text._Z13highbyte2chari
+                0x00000000        0xe ownCAN.o
+ .text._Z12lowbyte2chari
+                0x00000000        0xc ownCAN.o
+ .text._Z17what_is_your_namePKhhP9CAN_Frame
+                0x00000000       0x22 ownCAN.o
+ .text._Z7hex2dech
+                0x00000000       0x12 ownCAN.o
+ .text._Z11generateUIDmP12deviceparams
+                0x00000000       0x4c ownCAN.o
+ .text          0x00000000        0x0 SPI.o
+ .data          0x00000000        0x0 SPI.o
+ .bss           0x00000000        0x0 SPI.o
+ .text._ZN8SPIClass14usingInterruptEh
+                0x00000000       0x38 SPI.o
+ .text._ZN8SPIClass17notUsingInterruptEh
+                0x00000000       0x36 SPI.o
+ .bss._ZN8SPIClass13interruptSaveE
+                0x00000000        0x1 SPI.o
+ .bss._ZN8SPIClass13interruptMaskE
+                0x00000000        0x1 SPI.o
+ .bss.SPI       0x00000000        0x1 SPI.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .bss.hex_cnt   0x00000000        0x1 main.o
+ .text          0x00000000        0x0 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+ .data          0x00000000        0x0 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+ .bss           0x00000000        0x0 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+ .text.millis   0x00000000       0x18 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+ .text.micros   0x00000000       0x46 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+ .text.delay    0x00000000       0x74 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+ .text.delayMicroseconds
+                0x00000000       0x16 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+ .text          0x00000000        0x0 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+ .data          0x00000000        0x0 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+ .bss           0x00000000        0x0 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+ .text.digitalRead
+                0x00000000       0x52 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+ .progmem.data.port_to_input_PGM
+                0x00000000        0xa D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+ .text          0x00000000        0x0 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(main.cpp.o)
+ .data          0x00000000        0x0 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(main.cpp.o)
+ .bss           0x00000000        0x0 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(main.cpp.o)
+ .text.atexit   0x00000000        0x6 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(main.cpp.o)
+ .text._Z8setupUSBv
+                0x00000000        0x2 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(main.cpp.o)
+ .text          0x00000000        0x0 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(hooks.c.o)
+ .data          0x00000000        0x0 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(hooks.c.o)
+ .bss           0x00000000        0x0 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(hooks.c.o)
+ .text.__empty  0x00000000        0x2 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(hooks.c.o)
+ .debug_info    0x00000000       0x3a D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(hooks.c.o)
+ .debug_abbrev  0x00000000       0x28 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(hooks.c.o)
+ .debug_aranges
+                0x00000000       0x20 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(hooks.c.o)
+ .debug_ranges  0x00000000       0x10 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(hooks.c.o)
+ .debug_line    0x00000000       0x79 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(hooks.c.o)
+ .debug_str     0x00000000       0xa5 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(hooks.c.o)
+ .comment       0x00000000       0x12 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(hooks.c.o)
+ .debug_frame   0x00000000       0x24 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(hooks.c.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.div
+                0x00000000       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x00000000       0x28 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memset.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000003         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD CAN.o
+LOAD CAN_MCP2515.o
+LOAD ownCAN.o
+LOAD SPI.o
+LOAD main.o
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a
+END GROUP
+Address of section .text set to 0x7000
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a
+LOAD C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+                0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000003]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00007000      0xea8
+ *(.vectors)
+ .vectors       0x00007000       0x68 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00007000                __vector_default
+                0x00007000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00007068                . = ALIGN (0x2)
+                0x00007068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00007068        0x0 linker stubs
+ *(.trampolines*)
+                0x00007068                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+ .progmem.data.digital_pin_to_timer_PGM
+                0x00007068       0x14 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+                0x00007068                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x0000707c       0x14 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+                0x0000707c                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x00007090       0x14 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+                0x00007090                digital_pin_to_port_PGM
+ .progmem.data.port_to_output_PGM
+                0x000070a4        0xa D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+                0x000070a4                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x000070ae        0xa D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+                0x000070ae                port_to_mode_PGM
+                0x000070b8                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000070b8                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000070b8        0x2 CAN_MCP2515.o
+                0x000070ba                __ctors_end = .
+                0x000070ba                __dtors_start = .
+ *(.dtors)
+                0x000070ba                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000070ba        0x0 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000070ba                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000070ba        0xc C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000070c6       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                0x000070c6                __do_copy_data
+ .init4         0x000070dc       0x10 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                0x000070dc                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x000070ec       0x16 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+                0x000070ec                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00007102        0x8 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x0000710a        0x4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x0000710a                __vector_22
+                0x0000710a                __vector_1
+                0x0000710a                __vector_24
+                0x0000710a                __vector_12
+                0x0000710a                __bad_interrupt
+                0x0000710a                __vector_6
+                0x0000710a                __vector_3
+                0x0000710a                __vector_23
+                0x0000710a                __vector_25
+                0x0000710a                __vector_11
+                0x0000710a                __vector_13
+                0x0000710a                __vector_17
+                0x0000710a                __vector_19
+                0x0000710a                __vector_7
+                0x0000710a                __vector_5
+                0x0000710a                __vector_4
+                0x0000710a                __vector_9
+                0x0000710a                __vector_2
+                0x0000710a                __vector_21
+                0x0000710a                __vector_15
+                0x0000710a                __vector_8
+                0x0000710a                __vector_14
+                0x0000710a                __vector_10
+                0x0000710a                __vector_18
+                0x0000710a                __vector_20
+                0x0000710e                . = ALIGN (0x2)
+ *(.text.*)
+ .text._ZN11CAN_MCP25153endEv
+                0x0000710e        0x4 CAN_MCP2515.o
+                0x0000710e                _ZN11CAN_MCP25153endEv
+ .text._ZN8SPIClass8transferEh
+                0x00007112        0xe CAN_MCP2515.o
+                0x00007112                _ZN8SPIClass8transferEh
+ .text._ZN11CAN_MCP25155_initEv
+                0x00007120       0x1a CAN_MCP2515.o
+                0x00007120                _ZN11CAN_MCP25155_initEv
+ .text._ZN11CAN_MCP2515C2Ev
+                0x0000713a       0x12 CAN_MCP2515.o
+                0x0000713a                _ZN11CAN_MCP2515C2Ev
+                0x0000713a                _ZN11CAN_MCP2515C1Ev
+ .text._ZN11CAN_MCP2515C2Eh
+                0x0000714c       0x10 CAN_MCP2515.o
+                0x0000714c                _ZN11CAN_MCP2515C1Eh
+                0x0000714c                _ZN11CAN_MCP2515C2Eh
+ .text._ZN11CAN_MCP25155resetEv
+                0x0000715c       0x20 CAN_MCP2515.o
+                0x0000715c                _ZN11CAN_MCP25155resetEv
+ .text._ZN11CAN_MCP251512writeAddressEhh
+                0x0000717c       0x4a CAN_MCP2515.o
+                0x0000717c                _ZN11CAN_MCP251512writeAddressEhh
+ .text._ZN11CAN_MCP251513modifyAddressEhhh
+                0x000071c6       0x56 CAN_MCP2515.o
+                0x000071c6                _ZN11CAN_MCP251513modifyAddressEhhh
+ .text._ZN11CAN_MCP251510readStatusEv
+                0x0000721c       0x30 CAN_MCP2515.o
+                0x0000721c                _ZN11CAN_MCP251510readStatusEv
+ .text._ZN11CAN_MCP25159availableEv
+                0x0000724c        0x8 CAN_MCP2515.o
+                0x0000724c                _ZN11CAN_MCP25159availableEv
+ .text._ZN11CAN_MCP25154readEv
+                0x00007254      0x19e CAN_MCP2515.o
+                0x00007254                _ZN11CAN_MCP25154readEv
+ .text._ZN11CAN_MCP25155writeERK9CAN_Frame
+                0x000073f2      0x18e CAN_MCP2515.o
+                0x000073f2                _ZN11CAN_MCP25155writeERK9CAN_Frame
+ .text._ZN11CAN_MCP25157setModeEh
+                0x00007580        0xa CAN_MCP2515.o
+                0x00007580                _ZN11CAN_MCP25157setModeEh
+ .text._ZN11CAN_MCP251510setBitrateEm
+                0x0000758a       0x26 CAN_MCP2515.o
+                0x0000758a                _ZN11CAN_MCP251510setBitrateEm
+ .text._ZN11CAN_MCP251512clearFiltersEv
+                0x000075b0       0x20 CAN_MCP2515.o
+                0x000075b0                _ZN11CAN_MCP251512clearFiltersEv
+ .text._ZN11CAN_MCP251514clearRxBuffersEv
+                0x000075d0       0x5e CAN_MCP2515.o
+                0x000075d0                _ZN11CAN_MCP251514clearRxBuffersEv
+ .text._ZN11CAN_MCP251514clearTxBuffersEv
+                0x0000762e       0x86 CAN_MCP2515.o
+                0x0000762e                _ZN11CAN_MCP251514clearTxBuffersEv
+ .text._ZN11CAN_MCP25155flushEv
+                0x000076b4       0x14 CAN_MCP2515.o
+                0x000076b4                _ZN11CAN_MCP25155flushEv
+ .text._ZN11CAN_MCP251516enableInterruptsEh
+                0x000076c8       0x32 CAN_MCP2515.o
+                0x000076c8                _ZN11CAN_MCP251516enableInterruptsEh
+ .text._ZN11CAN_MCP25155beginEmh
+                0x000076fa       0x68 CAN_MCP2515.o
+                0x000076fa                _ZN11CAN_MCP25155beginEmh
+ .text._ZN11CAN_MCP25155beginEm
+                0x00007762        0x6 CAN_MCP2515.o
+                0x00007762                _ZN11CAN_MCP25155beginEm
+ .text._ZN15CAN_MCP2515plusC2Eh
+                0x00007768       0x34 CAN_MCP2515.o
+                0x00007768                _ZN15CAN_MCP2515plusC2Eh
+                0x00007768                _ZN15CAN_MCP2515plusC1Eh
+ .text.startup._GLOBAL__sub_I__ZN11CAN_MCP2515C2Ev
+                0x0000779c       0x14 CAN_MCP2515.o
+ .text._Z12generateHashm
+                0x000077b0       0x1a ownCAN.o
+                0x000077b0                _Z12generateHashm
+ .text._Z12sendCanFrame9CAN_Frame
+                0x000077ca       0x68 ownCAN.o
+                0x000077ca                _Z12sendCanFrame9CAN_Frame
+ .text._Z11getCanFramev
+                0x00007832       0x3c ownCAN.o
+                0x00007832                _Z11getCanFramev
+ .text._ZN8SPIClass5beginEv
+                0x0000786e       0x6c SPI.o
+                0x0000786e                _ZN8SPIClass5beginEv
+ .text._ZN8SPIClass3endEv
+                0x000078da       0x28 SPI.o
+                0x000078da                _ZN8SPIClass3endEv
+ .text.setup    0x00007902       0xd6 main.o
+                0x00007902                setup
+ .text._Z12program_pagejPh
+                0x000079d8       0x86 main.o
+                0x000079d8                _Z12program_pagejPh
+ .text._Z9BackToAppv
+                0x00007a5e       0x16 main.o
+                0x00007a5e                _Z9BackToAppv
+ .text.loop     0x00007a74      0x1bc main.o
+                0x00007a74                loop
+ .text.__vector_16
+                0x00007c30       0x94 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+                0x00007c30                __vector_16
+ .text.init     0x00007cc4       0x76 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+                0x00007cc4                init
+ .text.turnOffPWM
+                0x00007d3a       0x52 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+ .text.pinMode  0x00007d8c       0x72 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+                0x00007d8c                pinMode
+ .text.digitalWrite
+                0x00007dfe       0x6c D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+                0x00007dfe                digitalWrite
+ .text.initVariant
+                0x00007e6a        0x2 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(main.cpp.o)
+                0x00007e6a                initVariant
+ .text.startup.main
+                0x00007e6c       0x1e D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(main.cpp.o)
+                0x00007e6c                main
+ .text.libgcc   0x00007e8a        0xc c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                0x00007e8a                __tablejump2__
+ .text.avr-libc
+                0x00007e96        0xe c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(memset.o)
+                0x00007e96                memset
+                0x00007ea4                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00007ea4        0x0 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                0x00007ea4                _exit
+                0x00007ea4                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00007ea4        0x4 c:/program files (x86)/atmel/studio/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00007ea8                _etext = .
+
+.data           0x00800100       0x24 load address 0x00007ea8
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.act_dataPtr
+                0x00800100        0x1 main.o
+                0x00800100                act_dataPtr
+ .data.parser_state
+                0x00800101        0x1 main.o
+                0x00800101                parser_state
+ .data.boot_state
+                0x00800102        0x1 main.o
+                0x00800102                boot_state
+ *(.rodata)
+ *(.rodata*)
+ .rodata._ZTV15CAN_MCP2515plus
+                0x00800103       0x10 CAN_MCP2515.o
+                0x00800103                _ZTV15CAN_MCP2515plus
+ .rodata._ZTV11CAN_MCP2515
+                0x00800113       0x10 CAN_MCP2515.o
+                0x00800113                _ZTV11CAN_MCP2515
+ *(.gnu.linkonce.d*)
+                0x00800124                . = ALIGN (0x2)
+ *fill*         0x00800123        0x1 
+                0x00800124                _edata = .
+                0x00800124                PROVIDE (__data_end, .)
+
+.bss            0x00800124       0xf0
+                0x00800124                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.CAN       0x00800124       0x3b CAN_MCP2515.o
+                0x00800124                CAN
+ .bss.CANBase   0x0080015f        0x3 CAN_MCP2515.o
+                0x0080015f                CANBase
+ .bss._ZN8SPIClass13interruptModeE
+                0x00800162        0x1 SPI.o
+                0x00800162                _ZN8SPIClass13interruptModeE
+ .bss._ZN8SPIClass11initializedE
+                0x00800163        0x1 SPI.o
+                0x00800163                _ZN8SPIClass11initializedE
+ .bss.max_act_dataPtr
+                0x00800164        0x1 main.o
+                0x00800164                max_act_dataPtr
+ .bss.flash_cnt
+                0x00800165        0x2 main.o
+                0x00800165                flash_cnt
+ .bss.flash_page
+                0x00800167        0x2 main.o
+                0x00800167                flash_page
+ .bss.hex_data  0x00800169        0x7 main.o
+                0x00800169                hex_data
+ .bss.flash_data
+                0x00800170       0x80 main.o
+                0x00800170                flash_data
+ .bss.hash      0x008001f0        0x2 main.o
+                0x008001f0                hash
+ .bss.temp      0x008001f2        0x1 main.o
+                0x008001f2                temp
+ .bss.canFrame  0x008001f3       0x18 main.o
+                0x008001f3                canFrame
+ .bss.timer0_fract
+                0x0080020b        0x1 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+ .bss.timer0_millis
+                0x0080020c        0x4 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+                0x0080020c                timer0_millis
+ .bss.timer0_overflow_count
+                0x00800210        0x4 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+                0x00800210                timer0_overflow_count
+ *(COMMON)
+                0x00800214                PROVIDE (__bss_end, .)
+                0x00007ea8                __data_load_start = LOADADDR (.data)
+                0x00007ecc                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800214        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00800214                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x41
+ *(.comment)
+ .comment       0x00000000       0x30 CAN_MCP2515.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 ownCAN.o
+ .comment       0x00000030       0x31 SPI.o
+ .comment       0x00000030       0x31 main.o
+ .comment       0x00000030       0x11 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+                                 0x12 (size before relaxing)
+ .comment       0x00000041       0x12 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+ .comment       0x00000041       0x12 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(main.cpp.o)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xb8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x48 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+ .debug_aranges
+                0x00000048       0x38 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+ .debug_aranges
+                0x00000080       0x38 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(main.cpp.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x10e3
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x5f4 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_info    0x000005f4      0x2cd D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+ .debug_info    0x000008c1      0x5f1 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+ .debug_info    0x00000eb2      0x231 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(main.cpp.o)
+
+.debug_abbrev   0x00000000      0x950
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x5a2 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_abbrev  0x000005a2      0x143 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+ .debug_abbrev  0x000006e5      0x162 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+ .debug_abbrev  0x00000847      0x109 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(main.cpp.o)
+
+.debug_line     0x00000000      0x61f
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x133 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_line    0x00000133      0x1d3 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+ .debug_line    0x00000306      0x196 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+ .debug_line    0x0000049c      0x183 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(main.cpp.o)
+
+.debug_frame    0x00000000      0x1a0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xc4 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+ .debug_frame   0x000000c4       0x88 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+ .debug_frame   0x0000014c       0x54 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(main.cpp.o)
+
+.debug_str      0x00000000      0x677
+ *(.debug_str)
+ .debug_str     0x00000000      0x208 C:/Program Files (x86)/Atmel/Studio/7.0/Packs/atmel/ATmega_DFP/1.1.130/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .debug_str     0x00000208      0x170 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+                                0x1b0 (size before relaxing)
+ .debug_str     0x00000378      0x12d D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+                                0x215 (size before relaxing)
+ .debug_str     0x000004a5      0x1d2 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(main.cpp.o)
+                                0x25c (size before relaxing)
+
+.debug_loc      0x00000000      0x862
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x24b D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+ .debug_loc     0x0000024b      0x617 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000       0xa0
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x38 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring.c.o)
+ .debug_ranges  0x00000038       0x40 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(wiring_digital.c.o)
+ .debug_ranges  0x00000078       0x28 D:\OneDrive\01 Eisenbahn\00 Decoder develop\CAN_Lib\libArduinoCore.a(main.cpp.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(NanoBtLdr.elf elf32-avr)
+LOAD linker stubs
